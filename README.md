@@ -39,7 +39,7 @@ Sigue estos pasos para usar el proyecto:
 1. Descarga o clona el repositorio:
 
 ```bash
-git clone https://github.com/xxxxx/generador-pass-node.git
+git clone https://github.com/kalopezm/generador_pass_node.git
 ```
 
 2. Entra a la carpeta del proyecto:
